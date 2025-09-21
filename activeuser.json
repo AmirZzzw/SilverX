@@ -94,5 +94,11 @@
         "key": "mmd",
         "expirydate": "2025-09-20",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5ad8ad67a8ba695",
+        "key": "ffyt",
+        "expirydate": "2025-09-20",
+        "Allowoffline": false
     }
 ]
