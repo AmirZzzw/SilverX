@@ -16,5 +16,11 @@
         "key": "mohamd",
         "expirydate": "99999999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "mmd",
+        "key": "mohamd",
+        "expirydate": "99999999",
+        "Allowoffline": false
     }
 ]
