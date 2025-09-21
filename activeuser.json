@@ -46,5 +46,11 @@
         "key": "mmdff",
         "expirydate": "2026-12-1",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5ad8ad67a8ba695",
+        "key": "MIKA",
+        "expirydate": "2026-12-1",
+        "Allowoffline": false
     }
 ]
