@@ -172,5 +172,11 @@
         "key": "FT",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b3ff0dcd3f9b0dac",
+        "key": "YO",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
