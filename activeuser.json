@@ -142,5 +142,11 @@
         "key": "MHMOD",
         "expirydate": "2025-09-21",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5ad8ad67a8ba695",
+        "key": "MHMOD",
+        "expirydate": "2025-10-21",
+        "Allowoffline": false
     }
 ]
