@@ -40,5 +40,11 @@
         "key": "mmd",
         "expirydate": "2026-12-1",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8047cd94c4c3b5ff",
+        "key": "mmdff",
+        "expirydate": "2026-12-1",
+        "Allowoffline": false
     }
 ]
