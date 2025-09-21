@@ -34,5 +34,11 @@
         "key": "mohamd",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8047cd94c4c3b5ff",
+        "key": "mmd",
+        "expirydate": "2026-12-1",
+        "Allowoffline": false
     }
 ]
