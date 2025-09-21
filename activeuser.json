@@ -100,5 +100,11 @@
         "key": "ffyt",
         "expirydate": "2025-09-20",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8047cd94c4c3b5ff",
+        "key": "MMDFFYT",
+        "expirydate": "2025-09-20",
+        "Allowoffline": false
     }
 ]
