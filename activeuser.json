@@ -202,5 +202,11 @@
         "key": "SHADFF",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "743cff681ce750ab",
+        "key": "SHADFF",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
