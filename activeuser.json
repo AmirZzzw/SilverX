@@ -226,5 +226,11 @@
         "key": "MMD",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9b1a2d1d88a604fe",
+        "key": "MMD",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
