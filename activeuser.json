@@ -316,5 +316,11 @@
         "key": "FFYL",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "00a9c7e1a769aab2",
+        "key": "AFSHIN",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
