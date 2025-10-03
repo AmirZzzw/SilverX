@@ -292,5 +292,11 @@
         "key": "MIKA",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d5ad8ad67a8ba695",
+        "key": "MIKA",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
