@@ -274,5 +274,11 @@
         "key": "amiryt",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4d2d2952bd7c7586",
+        "key": "FREEFIRE",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
